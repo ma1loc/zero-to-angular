@@ -1,1 +1,1 @@
-# zero-to-angular
+# zero-to-angular Essentials
